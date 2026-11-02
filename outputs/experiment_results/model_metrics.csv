@@ -1,0 +1,2 @@
+model,MAE,RMSE,training_rows,testing_rows
+Random Forest,0.6555948045272996,3.463088245831576,400000,100000

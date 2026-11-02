@@ -1,0 +1,14 @@
+{
+    "Cloud_C": {
+        "start_step": 60,
+        "end_step": 72
+    },
+    "Cloud_A": {
+        "start_step": 150,
+        "end_step": 162
+    },
+    "Cloud_B": {
+        "start_step": 225,
+        "end_step": 237
+    }
+}

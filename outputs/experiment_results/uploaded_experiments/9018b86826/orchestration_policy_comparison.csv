@@ -1,0 +1,4 @@
+policy,availability_percent,sla_violation_rate_percent,unavailable_vm_steps,unavailable_rate_percent,performance_sla_violations,performance_sla_violation_rate_percent,latency_violations,cpu_violations,migrations,mean_recovery_time_steps,mean_recovery_time_minutes,mean_capacity_utilization_percent,mean_cloud_utilization_percent,illustrative_cost_units,total_vm_steps,available_vm_steps,sla_violations
+Static,95.83333333333333,4.456018518518518,360,4.166666666666667,25,0.28935185185185186,0,25,0,12.0,60.0,6.419539715926435,6.490092828293473,7038.0,8640,8280,385
+Reactive,99.02777777777777,0.9722222222222222,84,0.9722222222222222,0,0.0,0,0,84,1.0,5.0,6.419539715926435,6.159650300121582,7795.5,8640,8556,84
+Risk-Aware,99.20138888888889,0.7986111111111112,69,0.7986111111111112,0,0.0,0,0,69,1.0,5.0,6.419539715926435,6.5549563400079585,7243.05,8640,8571,69
